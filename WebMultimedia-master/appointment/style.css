@@ -1844,6 +1844,5 @@ font-size:14px;
 div.wpcf7-validation-errors {
     border: 2px solid #eee;
 	font-family: 'Open sans';
-	font-weight:400;
-	font-size:14px;
+	font-weight:400; font-size:14px;
 }
