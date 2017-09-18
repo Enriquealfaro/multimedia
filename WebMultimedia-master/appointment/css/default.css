@@ -11,7 +11,7 @@
 .navbar .navbar-nav > .open > a:focus,
 .navbar .navbar-nav > li > a:hover,
 .navbar .navbar-nav > li > a:focus {
-	color: red;
+	color: black;
 }
 .navbar .navbar-nav > .active > a,
 .navbar .navbar-nav > .active > a:hover,
